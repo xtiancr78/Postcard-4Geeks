@@ -1,0 +1,140 @@
+
+
+
+
+
+
+body{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+
+
+
+
+.amaranth-regular {
+  font-family: "Amaranth", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.amaranth-bold {
+  font-family: "Amaranth", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.amaranth-regular-italic {
+  font-family: "Amaranth", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.amaranth-bold-italic {
+  font-family: "Amaranth", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+    
+}
+
+
+#master{
+    background-color: white;
+    width: 60%;
+    height: 50%;
+    display: inline-block;
+    margin: 2% 5%;
+}
+
+#cabecera{
+    
+    width: 98%;
+    height: 25%;
+    padding: 0px 0px;
+    display: inline-flex;
+    
+}
+
+
+#saludo{
+    width: 60%;
+    height: 98%;
+}
+
+h1{
+    font-size: 1.2em;
+}
+
+
+#fotix{
+    float: right;
+    padding: 8% 0;
+    
+    width: 30%;
+    height: 98%;
+    background-image:url('http://storage.googleapis.com/breathecode-asset-images/5318bde604cf5c915f94897a71b49ab2523101322ea21cb046db1e67c24fa3be.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+
+
+
+}
+
+#contenido{
+    width: 98%;
+    height: 60%;
+    display: flex;
+}
+
+
+#mensajes{
+    width: 60%;
+    height: 98%;
+}
+
+
+#texto{
+    font-size: .8em;
+    text-align: justify;
+}
+
+
+
+#cuadros{
+   width: 80%;
+   height: 98%;
+   display: box;
+    
+}
+
+
+.cuadroTexto{
+    font-size: .8em;
+    width: 90%;
+    height: 15%;
+    float: right;
+    margin-block: 5%;
+}
+
+#botonera{
+   width: 98%;
+   height: 15%;
+   display: flex;
+   justify-content: center;
+    
+}
+
+#boton{
+    height: 80%;
+}
+
+
+
+
+
