@@ -1,9 +1,5 @@
 
 
-
-
-
-
 body{
     background-color: black;
     display: flex;
@@ -105,14 +101,18 @@ h1{
     width: 60%;
     height: 98%;
     margin: 0px 20px;
+
+    width: 90%;
+    height: 40%;
 }
 
 
 
 
-#textoParrafo{
+.textoParrafo{
     font-size: .8em;
     text-align: justify;
+
 }
 
 
